@@ -4,3 +4,4 @@ Content:
  - Matrices
  - Dictionaries
  - Visualizations
+ - Homework_3 Free Throws
