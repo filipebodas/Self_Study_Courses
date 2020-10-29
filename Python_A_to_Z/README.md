@@ -1,4 +1,4 @@
-Course by SuperDataScience (Kirill Eremenko) https://www.udemy.com/course/python-coding/learn/
+Course by SuperDataScience (Kirill Eremenko) https://www.udemy.com/course/python-coding/
 
 This was the first course I did on python. Did it to learn the fundamentals on python language.
 
