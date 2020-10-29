@@ -5,4 +5,5 @@ TO DO LIST:
  - Finish Jose Portilla's course on "Python for Data Science and Machine Learning Bootcamp" 
  - Finish SQL Cookbook
  - Finish R for Data Science
+ - Corey Schafer Youtube Tutorials
  
