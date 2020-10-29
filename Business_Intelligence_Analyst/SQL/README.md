@@ -1,1 +1,1 @@
-Exploration analysis using MySQL Workbench
+Data understanding analysis using MySQL Workbench
