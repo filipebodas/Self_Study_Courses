@@ -1,5 +1,8 @@
 Course by SuperDataScience (Kirill Eremenko) https://www.udemy.com/course/python-coding/learn/
 
+This was the first course I did on Python. Did it to learn the fundamentals on python language.
+
+
 Course Curriculum:
  - Core Principles (Variables; Loops)
  - Fundamentals of Python (Lists; Functions; Numpys; Arrays)
