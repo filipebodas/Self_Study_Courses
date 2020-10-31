@@ -14,4 +14,4 @@ Content:
   - Plotting Data
   - Data Sourcing with API
   - Data Sourcing with scrapping
-  - Final Project
+
