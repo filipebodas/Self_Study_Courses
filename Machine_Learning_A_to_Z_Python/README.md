@@ -2,7 +2,7 @@ Course by SuperDataScience (Kirill Eremenko) https://www.udemy.com/course/machin
 
 This course allowed me to explore the different machine learning algorithms. I tend to notice that some of the algorithms started to overfit the data
 
-Course Curriculum:
+**Course Curriculum:**
  - Preprocessing Data
  - Regression Models
  - Classification Models
