@@ -1,1 +1,1 @@
-Exploring the Python's seaborn library
+Exploring Python's seaborn library
