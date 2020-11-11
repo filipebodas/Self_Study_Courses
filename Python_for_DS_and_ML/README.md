@@ -1,6 +1,6 @@
 Course by SuperDataScience (Jose Portilla) https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
 
-11/11/2020
+**11/11/2020**\n
 I'm really enjoying this course. Off all the other courses that I did, I feel that I'm really breaking through barriers with this one.
 
 Course Curriculum:
