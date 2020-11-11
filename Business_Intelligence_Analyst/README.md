@@ -2,7 +2,7 @@ Course by 365 Careers https://www.udemy.com/course/the-business-intelligence-ana
 
 Did this course to add SQL and Tableau to my tools and improve in Python. The SQL part was quite challenging, but at the same time very elucidative
 
-Course Curriculum:
+**Course Curriculum:**
  - Statistics
   1. Population and Sample
   2. Descriptive Statistics
