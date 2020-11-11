@@ -2,7 +2,7 @@ Data Analytics course provided by Le Wagon https://www.lewagon.com/
 
 Good live course done during lunch time, 45min per day. Very immersive and clear.
 
-Content:
+**Content:**
   - Types & Variables
   - Loops
   - Control Flow
