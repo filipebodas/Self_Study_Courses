@@ -1,0 +1,14 @@
+Content:
+  - Matplotlib
+  - Seaborn
+    - Distribution plots
+    - Categorical plots
+    - Matrix plots
+    - Grids
+    - Regression plots
+    - Style and Color
+    - Exercises
+  - Pandas data visualization
+  - Plotty and Cufflinks
+  - Choropleth Maps
+  - Exercises
